@@ -54374,5 +54374,11 @@
     "author": "tianyiliu",
     "description": "Turn simple text (one line per level, parent: left right, LeetCode arrays, or indented lists) into slash-style (/ \\) binary tree drawings for algorithm notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "adamlty/obsidian-slash-tree"
+  },
+  {
+    "id": "canvas-smooth-linker",
+    "name": "Canvas Smooth Linker",
+    "author": "Manna",
+    "repo": "mannaa04/canvas-smooth-linker"
   }
 ]
